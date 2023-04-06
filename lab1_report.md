@@ -1,4 +1,4 @@
-#This is a report about how to connect and remote control a server located at basement of UCSD computer science building
+# This is a report about how to connect and remote control a server located at basement of UCSD computer science building
 
 
 
