@@ -31,8 +31,15 @@ After finished downloading and open the visual studio code software, you should 
  
 
 * ## _6th_
-  >Now is the time to show how to log into a course-specific account on ieng6.
-  >We type ssh cs15lsp23cn@ieng6.ucsd.edu as picture below.  
-  >
+    >After clicked the bash botton we should see this
+
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/6.png)
+
+
+
+* ## _7th_
+    >Now is the time to show how to log into a course-specific account on ieng6.
+    >We type ssh cs15lsp23cn@ieng6.ucsd.edu as picture below. 
+  
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/7.png)
 
