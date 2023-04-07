@@ -56,14 +56,17 @@ connect and remote control the server located at basement of UCSD computer scien
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/9.png)
 
 * ## _9th_
-    >Now, let's try some code. here I type * pwd which stand for * print work dirctory
+    >Now, let's try some code. here I type `pwd` which stand for `print work dirctory`
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/10.png)
 
     >here is the work dirctory it should show 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/11.png)
 
 * ## _10th_
-    >Since cs15lsp23cn is specifically for this course so I want to see what else is in the cs15lsp23 file. I type * ls <path>
+    >Since cs15lsp23cn is specifically for this course so I want to see what else is in the cs15lsp23 file. I type `ls <path>` which the path is  /home/linux/ieng6/cs15lsp23/
+
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/12.png)
+
 
 
 
