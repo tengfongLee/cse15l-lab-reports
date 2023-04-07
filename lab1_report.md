@@ -72,7 +72,12 @@ And this is what we should see in the `cs15lsp23` file
 * ##_11th_
     >Since there is a `publice` file inside the `cs15lsp23`, I would like to see what's in side. We also use `sl` <path> to see what's inside he public file. which <path> is `/home/linux/ieng6/cs15lsp23/public/`
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/14.png)
-
+And this is what we should see inside of public file
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/15.png)
     
+* ##_12th_
+    >So, we can know that there is a `helllo.txt` inside `publice` file. To print the context of the file I would use `cat` <path>
+ which the <path> is `/home/linux/ieng6/cs15lsp23/public/hello.txt/`
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/16.png)
 
 
