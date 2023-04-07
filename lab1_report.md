@@ -10,11 +10,14 @@ connect and remote control the server located at basement of UCSD computer scien
 
 
 
-* _Second_ -- After finished downloading
+* _Second_ -- After finished downloading and open the visual studio code software, you should see as picture below
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/2.png)
 
 After download the visual studio code you should see the same thing same image below
 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/3.png)
 
-* _third_ -- After see the screen show as image above then **PRESS** control + shift for Window, control+ ` for mac 
+* _third_ -- After see the screen show as image above then **PRESS** control + shift for Window, control + ` for Mac in order to call TERMINAL
+
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/4.png)
+
