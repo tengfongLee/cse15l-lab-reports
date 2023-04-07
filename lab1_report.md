@@ -57,8 +57,26 @@ After finished downloading and open the visual studio code software, you should 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/8.2.png)
 
 * ## _8th_
-    ``If this is not the first time of your device access to the servers, you should see the servers asking for the password, and the passwork is set by course special account(!!Notice that password you type in normally won't show up)``
+    ``If this is not the first time of your device access to the servers, you should simply see the servers asking for the password, and the passwork is set by course special account(!!Notice that password you type in normally won't show up)``
 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/8.png)
+
+* ## _9th_
+    ``After type in your own password you should see these information about servers(if password is vaild), which means we successfully access to the servers``
+
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/9.png)
+
+* ## _10th_
+    >Now, let's try some code. here I type ** pwd which stand for ** print work dirctory
+
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/10.png)
+
+    >here is the work dirctory it should show 
+    
+ ![Image](https://tengfonglee.github.io/cse15l-lab-reports/11.png)
+
+
+
+
 
 
