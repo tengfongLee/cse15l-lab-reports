@@ -27,12 +27,12 @@ After finished downloading and open the visual studio code software, you should 
 * ## _5th_ 
     > Afte opened the terminal in VScodr, we click launch profile which is the v sign at the right top of the screen, then clike the bash 
 
-
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/5.png)
 
 
 * ## _6th_
   >Now is the time to show how to log into a course-specific account on ieng6.
   >We type ssh cs15lsp23cn@ieng6.ucsd.edu as picture below.  
+  >
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/6.png)
 
