@@ -15,7 +15,7 @@ connect and remote control the server located at basement of UCSD computer scien
     > After access to the link above, click the
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/2.png)
 
-After finished downloading and open the visual studio code software, you should see as picture below 
+    >After finished downloading and open the visual studio code software, you should see as picture below 
 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/3.png)
 
