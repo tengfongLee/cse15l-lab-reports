@@ -10,14 +10,15 @@ connect and remote control the server located at basement of UCSD computer scien
 
 
 
-* _Second_ -- After finished downloading and open the visual studio code software, you should see as picture below
+* _Second_ After access to the link above, click the
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/2.png)
 
-After download the visual studio code you should see the same thing same image below
+After finished downloading and open the visual studio code software, you should see as picture below 
 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/3.png)
 
-* _third_ -- After see the screen show as image above then **PRESS** control + shift for Window, control + ` for Mac in order to call TERMINAL
+* _third_ After see the screen show as image above then **PRESS** control + shift for Window, control + ` for Mac in order to call TERMINAL
 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/4.png)
 
+*_5th_ Now is the time to show how to log into a course-specific account on ieng6.
