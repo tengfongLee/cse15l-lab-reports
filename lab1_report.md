@@ -83,5 +83,9 @@ And this is what we should see in the `hello.txt`
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/17.png)
 
     
-# NOW YOU KNOW HOW TO ACCESS TO A SERVER LOCATE AT UCSD COMPUTER SCIENCE BUILDING
+    
+    
+    
+# NOW YOU KNOW HOW TO ACCESS TO A SERVER 
+    LOCATE AT UCSD COMPUTER SCIENCE BUILDING
 
