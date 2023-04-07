@@ -63,10 +63,10 @@ connect and remote control the server located at basement of UCSD computer scien
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/11.png)
 
 * ## _10th_
-    >Since cs15lsp23cn is specifically for this course so I want to see what else is in the cs15lsp23 file. I type `ls <path>` which the path is  /home/linux/ieng6/cs15lsp23/
+    >Since `cs15lsp23cn` file is specifically for this course so I want to see what else is in the `cs15lsp23` file. I type `ls <path>` which the path is  `/home/linux/ieng6/cs15lsp23/`
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/12.png)
-
-
+And this is what we should see in the `cs15lsp23` file
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/13.png)
 
 
 
