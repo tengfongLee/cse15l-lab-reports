@@ -48,11 +48,11 @@ connect and remote control the server located at basement of UCSD computer scien
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/8.2.png)
 
 * ## _7th_
-    ``If this is not the first time of your device access to the servers, you should simply see the servers asking for the password, and the passwork is set by course special account(!!Notice that password you type in normally won't show up)``
+    > `If this is not the first time of your device access to the servers, you should simply see the servers asking for the password, and the passwork is set by course special account(!!Notice that password you type in normally won't show up)`
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/8.png)
 
 * ## _8th_
-    ``After type in your own password you should see these information about servers(if password is vaild), which means we successfully access to the servers``
+    > `After type in your own password you should see these information about servers(if password is vaild), which means we successfully access to the servers`
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/9.png)
 
 * ## _9th_
