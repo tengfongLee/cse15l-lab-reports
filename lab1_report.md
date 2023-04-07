@@ -79,5 +79,9 @@ And this is what we should see inside of public file
     >So, we can know that there is a `helllo.txt` inside `publice` file. To print the context of the file I would use `cat` <path>
  which the <path> is `/home/linux/ieng6/cs15lsp23/public/hello.txt/`
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/16.png)
+And this is what we should see in the `hello.txt`
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/17.png)
 
+    
+# NOW YOU KNOW HOW TO ACCESS TO A SERVER LOCATE AT UCSD COMPUTER SCIENCE BUILDING
 
