@@ -46,18 +46,18 @@ After finished downloading and open the visual studio code software, you should 
 
 
 * ## _Extra Information_
-    >If this is the first time of your device access to the server, it might show like the picture below (which I borrow from lecture doc)
+    >If this is the first time of your device access to the servers, it might show like the picture below (which I borrow from lecture doc)
     >And we type yes as answer
 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/8.1.png)
 
 * ## _Extra Information 2_
-    >After we type Yes this is what we should see
+    >After we type Yes this is what we should see the servers is asking for password
  
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/8.2.png)
 
 * ## _8th_
-    ``If this is not the first time of your device access, you should see the server asking for the password, and the passwork is set by course special account(!!Notice that password you type in normally won't show up)``
+    ``If this is not the first time of your device access to the servers, you should see the servers asking for the password, and the passwork is set by course special account(!!Notice that password you type in normally won't show up)``
 
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/8.png)
 
