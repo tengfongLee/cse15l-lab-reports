@@ -5,7 +5,10 @@ connect and remote control the server located at basement of UCSD computer scien
 
 
 * ## _First step_ 
-    > Type visual stduio code on browser which is the URL/website icon shown below
+    > Type visual stduio code on browser which is the URL/website icon shown below or click the line below
+    > https://code.visualstudio.com/
+
+
 ![Image](https://tengfonglee.github.io/cse15l-lab-reports/1.png)
 
 
