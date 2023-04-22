@@ -9,7 +9,7 @@ connect and remote control the server located at basement of UCSD computer scien
     > https://code.visualstudio.com/
 
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/1.png)
+    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/1.png)
 
 
 
