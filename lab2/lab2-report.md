@@ -1,7 +1,7 @@
 
 # Lab Report 2
 
-* ## _First Part_
+* ## _Part 1_
   
   >Here is my code for 'StringServer'
   
@@ -48,4 +48,10 @@
   
   * now stringStore equals to  "I do not believe this will work\nIt acutally works~~!!\n"
   
+  * ## _Part 2_
+
+
+  * Failure-inducing Input:
+
   
+
