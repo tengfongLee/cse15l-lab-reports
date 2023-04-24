@@ -52,19 +52,19 @@
 
 
   * Failure-inducing Input:
-    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/Test_ReverseInplace.png)
+    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/Test_ReversInplace.png)
 
   
   * Symptoms:
-    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReversInPlace_symptoms.png)
+    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReverseInPlace_symptoms.png)
 
   
   
   * The Bug:
-    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReversInPlace_bug.png)
+    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReverseInPlace_bug.png)
 
   
   * Bug Fixed:
-    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReversInPlace_explain.png)
+    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReverseInPlace_explain.png)
 
 
