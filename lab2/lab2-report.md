@@ -47,6 +47,8 @@
   * 'url.getQuery.split("=")' means get the Quert part of the URL and split by = if string contains one, it reference by the string array variable 'parameters'.(which is also split a differen string)
   
   * now stringStore equals to  "I do not believe this will work\nIt acutally works~~!!\n"
+
+
   
   * ## _Part 2_
 
@@ -74,5 +76,10 @@
 
 
     ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReverseInPlace_explain.png)
+
+
+  * ## _Part 3_
+
+  Acutally there is lot of stuffs that I haven't encounter beore, something like handle URL & Servers & remote control servers are new experience for me. 
 
 
