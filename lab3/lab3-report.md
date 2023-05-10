@@ -117,9 +117,38 @@ Why it is useful?
   output
   
     technical/911report/chapter-5.txt:            AL QAEDA AIMS AT THE AMERICAN HOMELAND
+
+
+> ## Third command-line 'grep -n'
+
+What does the command-line do?
+  Precede each matching line with a line number
+Why it is useful?
+  it is useful because when we are not only looking for file, we are looking for the content to read we need to know where it is, this line of command provide a line number for us.
   
+  Example1_'-i'
   
+  input
+    
+    grep -i "The system was blinking red" technical/911report/*
+    
+  output
+    
+    technical/911report/chapter-13.5.txt:            8 "The System Was Blinking Red"
+    technical/911report/chapter-8.txt:            "THE SYSTEM WAS BLINKING RED"
+    technical/911report/chapter-8.txt:            Tenet told us that in his world "the system was blinking red." By late July, Tenet
+    technical/911report/chapter-8.txt:            As Tenet told us, "the system was blinking red" during the summer of 2001. Officials
+    
+    
+  Example2_'-i'
   
+  input
+    
+    grep -i "al qaeda aims at the american homeland" technical/911report/*
+    
+  output
+  
+    technical/911report/chapter-5.txt:            AL QAEDA AIMS AT THE AMERICAN HOMELAND
   
   
   
