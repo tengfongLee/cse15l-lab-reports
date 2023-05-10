@@ -4,6 +4,6 @@
 
 * Command: 'grep'
 
-## > Firest command-line 'grep -c'
+> ## Firest command-line 'grep -c'
 
 
