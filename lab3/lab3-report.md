@@ -102,18 +102,21 @@ Why it is useful?
     
   output
     
-    technical/911report/chapter-5.txt 
+    technical/911report/chapter-13.5.txt:            8 "The System Was Blinking Red"
+    technical/911report/chapter-8.txt:            "THE SYSTEM WAS BLINKING RED"
+    technical/911report/chapter-8.txt:            Tenet told us that in his world "the system was blinking red." By late July, Tenet
+    technical/911report/chapter-8.txt:            As Tenet told us, "the system was blinking red" during the summer of 2001. Officials
     
     
   Example2_'-i'
   
   input
     
-    grep -l "2005" technical/government/*/*
+    grep -i "al qaeda aims at the american homeland" technical/911report/*
     
   output
   
-  
+    technical/911report/chapter-5.txt:            AL QAEDA AIMS AT THE AMERICAN HOMELAND
   
   
   
