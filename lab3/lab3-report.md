@@ -39,6 +39,8 @@ Why it is useful?
     
     
    >KSM stand for Khalid Sheikh Mohammed which is a person's name, and since all the file in 911report are named by number, so it is hard for us to know which file is the one we want, and this is  one way for us to find out. This case might be extrem, but if we are looking for some word that is command see but more often in the file we want then this is a perfect fit commmand.
+
+
     
     
 
@@ -52,23 +54,23 @@ Why it is useful?
   Example1_'-l'
   
   input
-    ```
+    
     grep -l "KSM" technical/911report/chapter-1.txt technical/911report/chapter-5.txt technical/911report/chapter-6.txt technical/911report/chapter-9.txt 
-    ```
+    
   output
-    ```
+    
     technical/911report/chapter-5.txt 
-    ```
+    
     
   Example2_'-l'
   
   input
-    ```
+    
     grep -l "2005" technical/government/*/*
-    ```
+    
   output
-  ```
-  ```
+  
+  
   
   
   
