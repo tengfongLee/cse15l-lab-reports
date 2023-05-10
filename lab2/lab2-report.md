@@ -56,7 +56,16 @@
   * Failure-inducing Input:
 
 
-    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/Test_ReversInplace.png)
+    ```
+    public class ArrayTests{
+      @Test
+      public void testReverseInPlace(){
+        int[] input1 = {3,2,1,4};
+        ArrayExamples.reverseInPlace(input1);
+        assertArrayEquals(new int[]{4,1,2,3}, input1);
+      }
+    }
+    ```
 
   
   * Symptoms:
@@ -68,14 +77,26 @@
   
   * The Bug:
   
-  
-    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReverseInPlace_bug.png)
+    ```
+    static void reverseInPlace(int[] arr){
+      for(int i = 0 ; i< arr.length ; i +=1){
+        arr[i]=arr[arr.length - i - 1];
+      }
+    }
+    ```
 
   
   * Bug Fixed:
-
-
-    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab2/photo/ReverseInPlace_explain.png)
+  the arr.length have to be arr.length/2 in order to reverse correctly, which means when we use arr.length as for loop length we will result tw time     reverse in place which did not hcange anything, so we should chagne the loop body to
+  ```
+    temp = arr[i];
+    arr[i] = arr[arr.length - i -1];
+    arr[arr.length - i -1]=temp;
+  ```
+  This provide us a temp to store in order to avoid the overwrite
+  
+  Since the bug in the original code was the restriction of i and the body of foor-loop cause overwrite by the second half of the array which cuase        the array be reversed twice and overwrite after the method run.
+  In conclusion, we change the restriction of the for-loop index i for array now the loop with loop properly without over looping(which aviod the problem that reverse array for twice), and create a reference variable to switch two index-symetric element in the array, this help us to aviod the overwrite issue, and this also help us to reduce the run time of the loop since we only need the traiverse half of the array(O(N/2)).
 
 
   * ## _Part 3_
