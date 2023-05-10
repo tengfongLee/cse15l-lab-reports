@@ -87,6 +87,31 @@ Why it is useful?
   
   
   
+> ## Third command-line 'grep -i'
+
+What does the command-line do?
+  ignore uppercase vs lowercase.
+Why it is useful?
+  gerenlly speaking, it is useful because some time we want to ignore uppercase vs. lowercase. for example, sometime we want to looking for some word and it might be the beginning of the sentance.
+  
+  Example1_'-i'
+  
+  input
+    
+    grep -i "The system was blinking red" technical/911report/*
+    
+  output
+    
+    technical/911report/chapter-5.txt 
+    
+    
+  Example2_'-i'
+  
+  input
+    
+    grep -l "2005" technical/government/*/*
+    
+  output
   
   
   
