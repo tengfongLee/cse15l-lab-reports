@@ -70,6 +70,20 @@ Why it is useful?
     
   output
   
+    technical/government/About_LSC/CONFIG_STANDARDS.txt
+    technical/government/About_LSC/Comments_on_semiannual.txt
+    technical/government/About_LSC/ONTARIO_LEGAL_AID_SERIES.txt
+    technical/government/About_LSC/Progress_report.txt
+    technical/government/About_LSC/State_Planning_Special_Report.txt
+    technical/government/About_LSC/Strategic_report.txt
+    technical/government/Env_Prot_Agen/bill.txt
+    technical/government/Env_Prot_Agen/jeffordslieberm.txt
+    technical/government/Env_Prot_Agen/multi102902.txt
+    technical/government/Env_Prot_Agen/tech_sectiong.txt
+    technical/government/Gen_Account_Office/Testimony_cg00010t.txt
+    technical/government/Gen_Account_Office/d01591sp.txt
+    technical/government/Gen_Account_Office/gg96118.txt
+    technical/government/Gen_Account_Office/og96014.txt
   
   
   
