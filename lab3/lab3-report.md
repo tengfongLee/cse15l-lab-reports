@@ -16,22 +16,29 @@ Why it is useful?
   Example1_'-c'
   
   input
+  
     ```
     grep -c "KSM" technical/911report/chapter-1.txt
     ```
+    
   output
+  
     '0'
 
   Example2_'grep -c'
   
   input
+  
     ```
     grep -c "KSM" technical/911report/chapter-5.txt 
     ```
+    
   output
+  
     '130'
     
-    KSM stand for Khalid Sheikh Mohammed which is a person's name, and since all the file in 911report are named by number, so it is hard for us to know which file is the one we want, and this is  one way for us to find out. This case might be extrem, but if we are looking for some word that is command see but more often in the file we want then this is a perfect fit commmand.
+    
+   >KSM stand for Khalid Sheikh Mohammed which is a person's name, and since all the file in 911report are named by number, so it is hard for us to know which file is the one we want, and this is  one way for us to find out. This case might be extrem, but if we are looking for some word that is command see but more often in the file we want then this is a perfect fit commmand.
     
     
 
