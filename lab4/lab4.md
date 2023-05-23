@@ -2,7 +2,7 @@
 ## 1
   * log into ieng6
  
-(key_pressed) > 'ssh ieng6' , <Enter>
+(key_pressed) > `ssh ieng6` , <Enter>
 
   | then we will see the "password:", and after entered the password we will see
 
