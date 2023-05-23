@@ -45,7 +45,7 @@
   
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/G.png)
   
- (key_pressed) >  <e>
+ (key_pressed) >  < e >
   
   | Goes to the last letter of next word
   
