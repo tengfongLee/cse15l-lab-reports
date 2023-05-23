@@ -11,7 +11,7 @@
 ## 2
   * Clone your fork of the repository from your Github account
   
-(key_pressed) > 'git clone <github_respository_URL>', <Enter>
+(key_pressed) > `git clone <github_respository_URL>`, <Enter>
   
 
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/git_clone.png)
@@ -19,7 +19,7 @@
 ## 3
   * Run the test, domonstrating that they fail
   
-(key_pressed) > 'cd lab7/', 'bash test.sh'
+(key_pressed) > `cd lab7/` , `bash test.sh`
   
   | First, we change the working directory, then we run the test file
   
@@ -28,7 +28,7 @@
 ## 4
   * Edit the code file to fix the failing test
   
- (key_pressed) > 'vim ListExample.java', <Enter>
+ (key_pressed) > `vim ListExample.java`, <Enter>
   
   | below image was before <Enter>
   
@@ -72,18 +72,18 @@
 ## 5
   * Run the tests, demonstrating that they now succeed
   
-  (key_pressed) > 'bash test.sh'
+  (key_pressed) > `bash test.sh`
   
    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/test2.png)
   
 ## 6
   * Commit and push the resulting change to your Github account
   
-  (key_pressed) > 'git init', <Enter>, 
-                  > 'git add ListExample.java', <Enter>,  'git commit -m "comment" ', <Enter>, 'git remote add origin <URL>', <Enter>
-                  > 'git push origin main', <Enter>, <t>,<e>,<n>,<g>,<f>,<o>,<n>,<g>,<L>,<e>,<e>, <Enter>, <control+v>, <Enter>
+  (key_pressed) > `git init`, <Enter>, 
+                  > `git add ListExample.java`, <Enter>,  `git commit -m "comment" `, <Enter>, `git remote add origin <URL>`, <Enter>
+                  > `git push origin main`, <Enter>, <t>,<e>,<n>,<g>,<f>,<o>,<n>,<g>,<L>,<e>,<e>, <Enter>, <control+v>, <Enter>
   
-  | Notice! I already do the 'git remote add origin' before this screenshot, so I use 'git remote show origin' to make sure I got
+  | Notice! I already do the `git remote add origin` before this screenshot, so I used `git remote show origin` to make sure I got
     | right URL, and the password is API key (which is the part of control+v) if you are using OSS login system 
       |(got to websit to generate one)
   
