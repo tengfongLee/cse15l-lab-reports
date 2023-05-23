@@ -1,6 +1,6 @@
 
-##1
-  *log into ieng6
+## 1
+  * log into ieng6
  
 (key_pressed) > 'ssh ieng6' , <Enter>
 
@@ -8,16 +8,16 @@
 
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/login.png)
 
-##2
-  *Clone your fork of the repository from your Github account
+## 2
+  * Clone your fork of the repository from your Github account
   
 (key_pressed) > 'git clone <github_respository_URL>', <Enter>
   
 
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/git_clone.png)
   
-##3
-  *Run the test, domonstrating that they fail
+## 3
+  * Run the test, domonstrating that they fail
   
 (key_pressed) > 'cd lab7/', 'bash test.sh'
   
@@ -25,8 +25,8 @@
   
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/test1.png)
   
-##4
-  *Edit the code file to fix the failing test
+## 4
+  * Edit the code file to fix the failing test
   
  (key_pressed) > 'vim ListExample.java', <Enter>
   
@@ -69,15 +69,15 @@
   
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/after_wq.png)
   
-##5
-  *Run the tests, demonstrating that they now succeed
+## 5
+  * Run the tests, demonstrating that they now succeed
   
   (key_pressed) > 'bash test.sh'
   
    ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/test2.png)
   
-##6
-  *Commit and push the resulting change to your Github account
+## 6
+  * Commit and push the resulting change to your Github account
   
   (key_pressed) > 'git init', <Enter>, 
                   > 'git add ListExample.java', <Enter>,  'git commit -m "comment" ', <Enter>, 'git remote add origin <URL>', <Enter>
