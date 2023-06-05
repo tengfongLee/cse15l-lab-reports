@@ -7,16 +7,16 @@
   
 ## SYMPTOM:
 
-   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/error_outout.png)
+  ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/error_outout.png)
    
-   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/output.png)
+  ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/output.png)
    
    ### bash code:
    
-   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/sh1.png)
+  ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/sh1.png)
    
    
-   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/sh2.png)
+  ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/sh2.png)
 
 
    
@@ -40,7 +40,7 @@
 ## Student screenshot after advice
 
 
- ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/after_fix.png)
+ ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/after_fix.png)
  
  student response: Above image was the result after trying the change, which works perfect. 
  
@@ -54,23 +54,23 @@
 
 * The file & directory structure needed
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/all_files.png)
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/all_files.png)
 
 * The contents of each file befoe fixing the bug
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/sh1.png)
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/sh1.png)
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/sh2.png)
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/sh2.png)
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/java1.png)
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/java1.png)
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/java2.png)
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/java2.png)
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab4/photo/java3.png)
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/java3.png)
 
 * The full command line you ran to trigger the bug
 
-'bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected'
+' bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected '
 
 * A description of what to edit to fix the bug
 
