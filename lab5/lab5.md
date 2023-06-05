@@ -7,7 +7,7 @@
   
 ## SYMPTOM:
 
-  ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/error_outout.png)
+  ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/error_output.png)
    
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/output.png)
    
@@ -30,7 +30,7 @@
   
   In order to solve the problem, we can see even there is no test file in the working directory but we got one in _list-examples-grader-main_, 
   
-  which was the working directory before 'cd grading-area', so we can move the file into grading-area by adding 'cp ListTester.java grading-area/'.
+  which was the working directory before `cd grading-area`, so we can move the file into grading-area by adding `cp ListTester.java grading-area/`.
   
   Or simply move the ListTester.java into the grading-area directory will also work, but I suggest copy the file(this prevent moving file around).
   
@@ -48,7 +48,7 @@
  
  This happend becasue I only changed the working directory, and forgot the ListTester was in somewhere else.
 
- And adding 'cp ListTester.java grading-area' before 'cd grading-area' slove the bugs.
+ And adding `cp ListTester.java grading-area` before `cd grading-area` slove the bugs.
  
 ## All the information needed about the setup including:
 
@@ -70,11 +70,11 @@
 
 * The full command line you ran to trigger the bug
 
-' bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected '
+`bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected`
 
 * A description of what to edit to fix the bug
 
-add 'cp ListTester.java grading-area/' befoe the line 'cd grading-area' in the grade.sh file
+add `cp ListTester.java grading-area/` befoe the line `cd grading-area` in the grade.sh file
 
 
 # Part2-Reflection
