@@ -11,7 +11,7 @@
    
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/output.png)
    
-## bash code:
+   ## bash code:
    
   ![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/sh1.png)
    
