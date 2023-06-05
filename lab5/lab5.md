@@ -54,7 +54,7 @@
 
 * The file & directory structure needed
 
-![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/all_file.png)
+![Image](https://tengfonglee.github.io/cse15l-lab-reports/lab5/photo/all-files.png)
 
 * The contents of each file befoe fixing the bug
 
